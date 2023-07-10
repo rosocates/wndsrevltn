@@ -1,0 +1,17 @@
+characters={
+
+WAS_jay_inslee={
+		name=WAS_jay_inslee
+		portraits={
+			civilian={
+				large="gfx/leaders/WAS/jay_inslee.dds"
+			}
+		}
+		country_leader={
+			ideology=social_liberal_subtype
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

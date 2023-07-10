@@ -1,0 +1,17 @@
+characters={
+
+NPG_giulio_antinoro={
+		name=NPG_giulio_antinoro
+		portraits={
+			civilian={
+				large="gfx/leaders/NPG/giulio_antinoro.dds"
+			}
+		}
+		country_leader={
+			ideology=esotericism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}
