@@ -1,0 +1,17 @@
+characters={
+
+OAF_regional_council={
+		name=OAF_regional_council
+		portraits={
+			civilian={
+				large="gfx/leaders/OAF/olympia_rc.dds"
+			}
+		}
+		country_leader={
+			ideology=anarchist_communism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+
+}

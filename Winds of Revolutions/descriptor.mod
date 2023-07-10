@@ -1,0 +1,15 @@
+version="0.1"
+tags={
+	"Alternative History"
+	"Map"
+	"Military"
+	"National Focuses"
+	"Technologies"
+	"Graphics"
+	"Historical"
+	"Ideologies"
+	"Events"
+	"Gameplay"
+}
+name="Winds of Revolutions"
+supported_version="1.12.14"
