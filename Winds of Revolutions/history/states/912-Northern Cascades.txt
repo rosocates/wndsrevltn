@@ -1,0 +1,29 @@
+
+state={
+	id=912
+	name="STATE_912"
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		add_core_of = USA
+		add_core_of = CAS
+		victory_points = {
+			7414 10 
+		}
+
+	}
+
+	provinces={
+		1320 7414 10157 10198 
+	}
+	manpower=206000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

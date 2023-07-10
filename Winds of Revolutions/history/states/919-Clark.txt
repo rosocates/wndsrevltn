@@ -1,0 +1,23 @@
+
+state={
+	id=919
+	name="STATE_919"
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = USA
+
+	}
+
+	provinces={
+		4799 
+	}
+	manpower=105000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

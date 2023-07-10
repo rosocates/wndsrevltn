@@ -1,0 +1,24 @@
+state={
+	id=918
+	name="STATE_918"
+
+	history={
+		owner = NPG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = USA
+		add_core_of = NPG
+
+	}
+
+	provinces={
+		13260 
+	}
+	manpower=89003
+	buildings_max_level_factor=1.000
+	state_category = town
+	local_supplies=0.000
+}

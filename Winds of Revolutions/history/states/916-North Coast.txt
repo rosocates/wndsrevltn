@@ -1,0 +1,27 @@
+state={
+	id=916
+	name="STATE_916"
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = CAN
+		add_core_of = CAS
+		victory_points = {
+			12578 15 
+		}
+
+	}
+
+	provinces={
+		10228 10258 10273 12231 
+	}
+	manpower=56020
+	buildings_max_level_factor=1.000
+	state_category = town
+	local_supplies=0.000
+}

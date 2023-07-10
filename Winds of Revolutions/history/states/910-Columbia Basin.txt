@@ -1,0 +1,29 @@
+state={
+	id=910
+	name="STATE_910"
+
+	history={
+		owner = ONR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 5
+
+		}
+		add_core_of = USA
+		add_core_of = ONR
+		victory_points = {
+			1690 1 
+		}
+
+	}
+
+	provinces={
+		1690 4747 10327 10693 12673 
+	}
+	manpower=70874
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

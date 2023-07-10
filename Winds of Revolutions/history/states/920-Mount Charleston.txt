@@ -1,0 +1,24 @@
+state={
+	id=920
+	name="STATE_920"
+
+	history={
+		owner = NPG
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+
+		}
+		add_core_of = USA
+		add_core_of = NPG
+
+	}
+
+	provinces={
+		13259 
+	}
+	manpower=56874
+	buildings_max_level_factor=1.000
+	state_category = rural
+	local_supplies=0.000
+}
